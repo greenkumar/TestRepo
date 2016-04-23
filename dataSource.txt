@@ -1,5 +1,0 @@
-Data Sources
-Samsung Galaxy S6 Edge's smart rating was calculated by SpecOut to be 100 in Jan. 2016.
-Data from manufacturer and carrier websites.
-Ratings from CNET, LAPTOP Mag, PC Mag, PC World, and WIRED.
-Performance benchmarks from Geekbench, DxOMark, and Rightware.
